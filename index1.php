@@ -129,24 +129,24 @@
 
 
                   <li class="container"><img class="bb" src="https://cdn.pixabay.com/photo/2013/07/12/15/35/community-150125_1280.png" alt="">
-                  <a href="meet.html" title="Team info" class="button">Main Table</a>
+                  <a href="meet.html" title="Team information" class="button">Main Table</a>
                   </li>
                   <li class="container"><img class="bb" src="https://cdn.pixabay.com/photo/2018/03/21/06/30/people-3245739_1280.png" alt="">
-                  <a href="meet.html"  title="Team info" class="button">Table 1</a></li>
+                  <a href="meet.html"  title="TTeam information" class="button">Table 1</a></li>
                   <li class="container"><img class="bb" src="https://cdn.pixabay.com/photo/2018/03/21/06/30/people-3245739_1280.png" alt="">
-                  <a href="meet.html"  title="Team info" class="button">Table 2</a></li>
+                  <a href="meet.html"  title="Team information" class="button">Table 2</a></li>
                   <li class="container"><img class="bb" src="https://cdn.pixabay.com/photo/2018/03/21/06/30/people-3245739_1280.png" alt="">
-                  <a href="meet.html" title="Team info" class="button">Table 3</a></li>
+                  <a href="meet.html" title="Team information" class="button">Table 3</a></li>
                   <li class="container"><img class="bb" src="https://cdn.pixabay.com/photo/2018/03/21/06/30/people-3245739_1280.png" alt="">
-                  <a href="meet.html"  title="Team info" class="button">Table 4</a></li>
+                  <a href="meet.html"  title="Team information" class="button">Table 4</a></li>
                   <li class="container"><img class="bb" src="https://cdn.pixabay.com/photo/2018/03/21/06/30/people-3245739_1280.png" alt="">
-                  <a href="meet.html"  title="Team info" class="button">Table 5</a></li>
+                  <a href="meet.html"  title="Team information" class="button">Table 5</a></li>
                   <li class="container"><img class="bb" src="https://cdn.pixabay.com/photo/2018/03/21/06/30/people-3245739_1280.png" alt="">
-                  <a href="meet.html"  title="Team info" class="button">Table 6</a></li>
+                  <a href="meet.html"  title="Team information" class="button">Table 6</a></li>
                   <li class="container"><img class="bb" src="https://cdn.pixabay.com/photo/2018/03/21/06/30/people-3245739_1280.png" alt="">
-                  <a href="meet.html"  title="Team info" class="button">Table 7</a></li>
+                  <a href="meet.html"  title="Team information" class="button">Table 7</a></li>
                   <li class="container"><img class="bb" src="https://cdn.pixabay.com/photo/2018/03/21/06/30/people-3245739_1280.png" alt="">
-                  <a href="meet.html"  title="Team info" class="button">Table 8</a></li>
+                  <a href="meet.html"  title="Team information" class="button">Table 8</a></li>
 
               </ul>
               <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
